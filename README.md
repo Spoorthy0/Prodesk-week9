@@ -44,7 +44,7 @@ This project was created to understand REST architecture, CRUD operations, middl
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/data-hub.git
+git clone https://github.com/Spoorthy0/Prodesk-week9.git
 ```
 
 Move into project folder:
